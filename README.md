@@ -25,7 +25,7 @@ tic-tac-toe/
 ## 🧑‍💻 How to Run the Game
 
 1. Clone the repository:
-   git clone
+   git clone https://github.com/diyasaha03/Tic-tac-toe-game
    
 Run the Python file:
 python tictactoe.py
